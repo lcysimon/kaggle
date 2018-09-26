@@ -107,3 +107,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Custom ignore
+.bash_history
+.ipython
+.jupyter
+.scala_history
